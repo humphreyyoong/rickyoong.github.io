@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>里克中式酸奶</title>
   
-  
+  <subtitle>Rick&#39;s Yogurt Chinese</subtitle>
   <link href="http://rickyoong.com/atom.xml" rel="self"/>
   
   <link href="http://rickyoong.com/"/>
